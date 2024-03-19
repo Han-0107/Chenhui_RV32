@@ -1,0 +1,25 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/prj/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/CHIP_TOP.v,1700552048,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/alu_add.v,,CHIP_TOP,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/alu_add.v,1700556301,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/alu_ctrl.v,,alu_add,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/alu_ctrl.v,1700556315,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/alu_ex.v,,alu_ctrl,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/alu_ex.v,1700556328,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/ex_mem.v,,alu_ex,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/ex_mem.v,1700556343,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/foward_unit.v,,ex_mem,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/foward_unit.v,1700556354,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/hazard_detec.v,,forward_unit,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/hazard_detec.v,1700556363,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/id_ex.v,,hazard_detec,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/id_ex.v,1700556371,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/if_id.v,,id_ex,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/if_id.v,1700556379,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/imm_gen.v,,if_id,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/imm_gen.v,1700556386,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/main_ctrl.v,,imm_gen,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/main_ctrl.v,1700556394,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/mem_wb.v,,main_ctrl,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/mem_wb.v,1700556401,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/mux2.v,,mem_wb,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/mux2.v,1689085671,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/mux3.v,,mux2,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/mux3.v,1700556419,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/ram_bfm.v,,mux3,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/ram_bfm.v,1700555826,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/regfile.v,,ram_bfm,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/regfile.v,1700556429,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/riscv_core.v,,regfile,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/riscv_core.v,1700556437,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/wrap_dram.v,,riscv_core,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/wrap_dram.v,1700556466,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/wrap_iram.v,,wrap_dram,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/rtl/wrap_iram.v,1700553381,verilog,,C:/Users/11703/Desktop/other_design/CK_Riscv-master/testbench/tbtop.v,,wrap_iram,,,,,,,,
+C:/Users/11703/Desktop/other_design/CK_Riscv-master/testbench/tbtop.v,1709279805,verilog,,,,tbtop,,,,,,,,

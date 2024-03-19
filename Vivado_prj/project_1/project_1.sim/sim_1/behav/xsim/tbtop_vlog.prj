@@ -1,0 +1,28 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../rtl/CHIP_TOP.v" \
+"../../../../../../rtl/alu_add.v" \
+"../../../../../../rtl/alu_ctrl.v" \
+"../../../../../../rtl/alu_ex.v" \
+"../../../../../../rtl/ex_mem.v" \
+"../../../../../../rtl/foward_unit.v" \
+"../../../../../../rtl/hazard_detec.v" \
+"../../../../../../rtl/id_ex.v" \
+"../../../../../../rtl/if_id.v" \
+"../../../../../../rtl/imm_gen.v" \
+"../../../../../../rtl/main_ctrl.v" \
+"../../../../../../rtl/mem_wb.v" \
+"../../../../../../rtl/mux2.v" \
+"../../../../../../rtl/mux3.v" \
+"../../../../../../rtl/ram_bfm.v" \
+"../../../../../../rtl/regfile.v" \
+"../../../../../../rtl/riscv_core.v" \
+"../../../../../../rtl/wrap_dram.v" \
+"../../../../../../rtl/wrap_iram.v" \
+"../../../../../../testbench/tbtop.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

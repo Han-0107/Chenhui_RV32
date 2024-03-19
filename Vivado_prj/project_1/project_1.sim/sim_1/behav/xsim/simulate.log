@@ -1,0 +1,19 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+WARNING: File rv32uc-p-rvc.verilog referenced on C:/Users/11703/Desktop/other_design/CK_Riscv-master/testbench/tbtop.v at line 57 cannot be opened for reading. Please ensure that this file is available in the current working directory.
+
+
+*	IDATA: 0x00: 00000000
+*	IDATA: 0x04: 00000000
+*	IDATA: 0x08: 00000000
+*	IDATA: 0x0C: 00000000
+*	IDATA: 0x10: 00000000
+*	IDATA: 0x14: 00000000
+*	IDATA: 0x18: 00000000
+*	IDATA: 0x1C: 00000000
+*	IDATA: 0x20: 00000000
+*	IDATA: 0x24: 00000000
+*	IDATA: 0x28: 00000000
+*	IDATA: 0x2C: 00000000
+
+******** hello risc_v !!!! ******
